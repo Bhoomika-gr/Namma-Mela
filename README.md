@@ -27,5 +27,19 @@ Many rural cultural events and village dramas are promoted only offline, making 
 - AI poster generation
 - Multi-language support
 
+## Screenshots
+
+### Home Screen
+![Home](<img width="347" height="792" alt="Home screen" src="https://github.com/user-attachments/assets/e3ebc964-8d40-4e4b-b169-15f1d5500532" />
+)
+
+### Seat booking
+![Details](<img width="352" height="776" alt="Seat booking" src="https://github.com/user-attachments/assets/e4b05a82-915d-469d-b578-4228a01dc1d4" />
+)
+
+### Profile screen
+![Booking](<img width="346" height="777" alt="Profile screen" src="https://github.com/user-attachments/assets/cca1418f-a0ed-4880-95d1-b1c35444e7b7" />
+)
+
 ## Author
 Bhoomika
